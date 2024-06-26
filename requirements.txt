@@ -1,0 +1,12 @@
+pip~=24.0
+attrs~=22.2.0
+pillow~=10.3.0
+tornado~=6.3.3
+Jinja2~=3.1.4
+click~=8.1.7
+ipython~=8.24.0
+setuptools~=68.1.2
+packaging~=23.0
+pyparsing~=3.1.2
+typing_extensions~=4.11.0
+config~=0.5.1
