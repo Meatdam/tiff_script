@@ -22,7 +22,7 @@ _____
 
 Для запуска проекта у себя локально необходимо сделать: 
 ```
-git clone git@github.com:Meatdam/bank_operations.git
+git@github.com:Meatdam/tiff_script.git
 ```
 Установить виртуальное окружение `venv`
 ```
