@@ -71,4 +71,3 @@ def stich_tile(path_to_file, xx, yy):
 if __name__ == '__main__':
     find_files(PATH_IMG, '*/.j')
     stich_tile(FILE, 3, 2)
-
